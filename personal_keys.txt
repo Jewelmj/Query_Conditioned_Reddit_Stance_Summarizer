@@ -1,0 +1,11 @@
+gemini api: (AIzaSyAYddQ3LHnB-0RP-BGGYGb8hvsy3Cs-Yl0 , AIzaSyC7z7SQrv87fKjR-L3LsA6HrDc4zjMGzkE , AIzaSyDl3FK225HoAaTHy7Stmy5jmjYXQj7vbAs , AIzaSyD1vUGNAAYBXvRg44QMVR11OgRuGaUSW_Y )
+AIzaSyAmvqNOa15ti8x0q38WN0FXKfyo9oCu9sY
+AIzaSyDJzr_Cqx0mFvAlMRh3DkfzRWPrBSp169o
+AIzaSyDn7yWMATzanguLxkihirfqbKWnAPJgZVQ
+
+
+
+redit api:
+client_id="A8PYkI-YtD1OQO5de5vRvQ",
+client_secret="WKLRaekg1GSO1ud5ggg6ujg-IB6r5A",
+user_agent="scraper_red"

@@ -1,0 +1,7 @@
+1) set-up : download the bart and distil bart from hugging face and save it in models folder. (run the downlaod_model.py)
+2) set up the virtual enviorment and, pip install requierments.txt (recommended to use python 3.12)
+3) for getting the scraped data we worked on use drive: https://drive.google.com/drive/folders/1r1x-3OSpl06QAAz4ESiwWMLw6SVcuBtb?usp=sharing.
+
+1) for new data collection use these following code in sequence: [ generate_input_diverse.py, extract_keywords_inputs.py, scrape_keywords.py, sum_scraped_data.py, generate_y.py]
+2) for using the software run final_program.py
+3) for using the gui of the final software, streamlit run final_gui.py.
