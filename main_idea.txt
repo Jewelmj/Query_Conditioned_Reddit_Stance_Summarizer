@@ -1,0 +1,9 @@
+1) User Input: "Why is Bengaluru so dusty?" (via a Streamlit web UI)
+2) Keyword Extraction: dust, Bengaluru
+3) Implemented: Rule-based function using spaCy (for POS tagging of nouns, proper nouns, adjectives) and NLTK (for lemmatization).
+4) Scrape Reddit & Pre-process: PRAW scraper + Pre-summarization
+5) Scraper: Uses PRAW to search Reddit with keywords, filtering duplicates and irrelevant posts.
+6) Pre-summarizer: Uses a pre-trained DistilBART model to create concise summaries of each post, avoiding truncation.
+7) Final Insight Generation (User Input + Pre-summarized Data → Final Output): Dual-analysis system
+8) Summary Generation: A foundational BART-Large-CNN model takes the user query and pre-summarized posts to generate a final, synthesized summary.
+9) Stance Detection: The Gemini API analyzes the original scraped posts against the query to determine the overall stance (support, oppose, etc.).
